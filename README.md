@@ -1,5 +1,5 @@
 # WxOAuthManager
-在线课程 <a href="https://ke.qq.com/core/course.html?cid=5816360">《“使用微信扫一扫登录”管理平台开发实战》</a>配套源码
+在线课程 <a href="https://ke.qq.com/course/5816360">《“使用微信扫一扫登录”管理平台开发实战》</a>配套源码
 
 
 # 交流
